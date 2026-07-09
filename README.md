@@ -1,2 +1,2 @@
 # Repo-Vorlage
-Die Vorlage für 
+Die Vorlage für neue Repos
